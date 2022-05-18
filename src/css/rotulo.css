@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&family=Pushster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Twinkle+Star&display=swap');
+
+
+.cabecalho {
+    font-size: 3em;
+    font-family: "Oooh Baby";
+    margin-top: -35px;
+    margin-bottom: -10px;
+}
+
+.titulo {
+    margin: 10px;
+    font-size: 2em;
+    font-family: "twinkle Star", cursive;
+}
